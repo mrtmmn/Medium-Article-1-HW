@@ -21,7 +21,7 @@ So, get started by creating an account on [Medium.com](https://medium.com). Make
 
 Once you've created an account, the homework is as follows:
 
-Write an article, giving your opinion on something you have learned in this course. This can be something you like doing, something you find interesting, a guide on how to do or use something in particular, or even just an article describing the journey of learning Android and Java. It's up to you.
+Write an article, giving your opinion on something you have learned in this course. This can be something you like doing, something you find interesting, a guide on how to do or use something in particular, or even just an article describing the journey of learning Android and Java. It's up to you. Show the world that you know what you are talking about!
 
 The only requirement is that the article is at least 150 words long (not counting snippits of code).
 
