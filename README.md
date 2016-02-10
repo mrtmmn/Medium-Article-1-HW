@@ -13,7 +13,7 @@ When looking for a job, having a good web presense is important. There are many 
 
 [Medium](https://medium.com) is an online platform where someone can read and write opinions easily. Some people use it like a newspaper, reading top stories or opinions in some topic. Many people, [including myself](https://medium.com/@16bits), use this as a way to show that they have a well-thought opinion about *something*.
 
-This is very important in the tech field. When searching for potential candidates, interviewers tend to give an edge to those who code and also contributes to the community.
+This is very important in the tech field. When searching for potential candidates, interviewers tend to give an edge to those who code and also contributes their knowledge to the community.
 
 So, get started by creating an account on [Medium.com](https://medium.com). Make sure to follow the companies that you are interested in!
 
