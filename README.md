@@ -15,7 +15,7 @@ When looking for a job, having a good web presense is important. There are many 
 
 This is very important in the tech field. When searching for potential candidates, interviewers tend to give an edge to those who code and also contributes their knowledge to the community.
 
-So, get started by creating an account on [Medium.com](https://medium.com). Make sure to follow the companies that you are interested in!
+So, get started by creating an account on [Medium.com](https://medium.com). Make sure to follow the companies that you are interested in, such as [General Assembly (@ga)](https://medium.com/@ga)!
 
 #### Requirements
 
